@@ -130,8 +130,9 @@ a:active, a:focus, a:hover {
     z-index: 1;
     padding: 0 20px;
     background-size: cover;
-    color: #fff;
-    text-align: center
+    background-color: #ff6c38;
+    color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 .main-content:after {
