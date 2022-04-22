@@ -1,5 +1,11 @@
 [[redirects]]
-  from = "https://ayyub29.netlify.app/eval"
+  from = "https://ayyub29.id/eval"
   to = "https://forms.gle/oBhPcm6j1T8LY89B7"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://ayyub29.id/meet"
+  to = "https://meet.google.com/uhj-vsyw-iih"
   status = 301
   force = true
