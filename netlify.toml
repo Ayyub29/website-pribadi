@@ -11,7 +11,14 @@
   force = true
 
 [[redirects]]
-  from = "https://ayyub29.id/bayar-yt"
+  from = "https://ayyub29.id/mau-bayar-yt"
   to = "https://forms.gle/DayjDoEdEW58HmvYA"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "https://ayyub29.id/sudah-bayar-yt"
+  to = "https://docs.google.com/spreadsheets/d/1_wACR2bRZa4KcJMSTd6RLJAWfI9woUC4KIkP8GBZ_-E/edit?usp=sharing"
+  status = 301
+  force = true
+  
