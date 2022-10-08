@@ -9,3 +9,9 @@
   to = "https://meet.google.com/uhj-vsyw-iih"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://ayyub29.id/bayar-yt"
+  to = "https://forms.gle/DayjDoEdEW58HmvYA"
+  status = 301
+  force = true
